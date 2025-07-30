@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="433" height="576" alt="yeong icon" src="https://github.com/user-attachments/assets/a4a1c5cc-f21f-4be9-9a9a-848ad77f392e" />
 
 <!--
 **0package/0package** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
