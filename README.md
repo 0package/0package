@@ -25,7 +25,7 @@
   </picture>
 </div>
 
-<!-->
+<!--
 <picture>
   <source srcset="yeong_icon_white.png" media="(prefers-color-scheme: dark)">
   <source srcset="yeong_icon_black.png" media="(prefers-color-scheme: light)">
