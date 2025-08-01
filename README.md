@@ -12,7 +12,19 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hongsieey02)](https://solved.ac/hongsieey02/)
 
+<!--
   <img width="785" height="1043" alt="yeong_icon" src="https://github.com/user-attachments/assets/1a40a381-d0db-4d64-8f76-985d85619751" />
+-->
+
+
+<picture>
+  <source srcset="yeong_icon_white.png" media="(prefers-color-scheme: dark)">
+  <source srcset="yeong_icon_black.png" media="(prefers-color-scheme: light)">
+  <img src="yeong_icon_black.png" alt="로고">
+</picture>
+
+
+
 
 <!--
 **0package/0package** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
