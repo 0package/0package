@@ -20,7 +20,7 @@
 <picture>
   <source srcset="yeong_icon_white.png" media="(prefers-color-scheme: dark)">
   <source srcset="yeong_icon_black.png" media="(prefers-color-scheme: light)">
-  <img width="376" height="500" src="yeong_icon_black.png" alt="로고">
+  <img width="188" height="250" src="yeong_icon_black.png" alt="로고">
 </picture>
 
 
