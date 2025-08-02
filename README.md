@@ -60,8 +60,8 @@
 
 ### 🌐 Contact
 
-- 📫 Mail: [your_email@example.com]
-- 🌍 Blog or Portfolio: [Link if available]
+- 📫 Mail: [archiveyeong@gmail.com]
+- 🌍 Blog or Portfolio: [Link if available](https://myscoreis-c.tistory.com/)
 - 🤝 Let's connect: [LinkedIn/GitHub Discussion/etc]
 
 ---
