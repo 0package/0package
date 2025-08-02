@@ -1,43 +1,71 @@
-## This is Yeong
+<!-- Profile README for @0package -->
 
-<picture>
-  <source srcset="yeong_icon_white.png" media="(prefers-color-scheme: dark)">
-  <source srcset="yeong_icon_black.png" media="(prefers-color-scheme: light)">
-  <img width="188" height="250" src="yeong_icon_black.png" alt="로고">
-</picture> this is yeong
+<h1 align="center">Hi, I'm Yeong 👋</h1>
 
+<div align="center">
+  <picture>
+    <source srcset="yeong_icon_white.png" media="(prefers-color-scheme: dark)">
+    <source srcset="yeong_icon_black.png" media="(prefers-color-scheme: light)">
+    <img src="yeong_icon_black.png" width="100" alt="yeong icon" />
+  </picture>
+</div>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=0package&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/0package?pet-id=738589752768121552"
-    width="600"
-    height="120"
-  />
-</a>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hongsieey02)](https://solved.ac/hongsieey02/)
+<p align="center">
+  <b>Creative Coder | Tech Explorer | MIT 🧠</b><br/>
+  Passionate about Smart Farm 🌱 | AI 🤖 | System Design ⚙️
+</p>
 
-<!--
-  <img width="785" height="1043" alt="yeong_icon" src="https://github.com/user-attachments/assets/1a40a381-d0db-4d64-8f76-985d85619751" />
--->
+---
 
+### 🛠️ Tech Stack
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,python,raspberrypi,fastapi,mysql,git" />
+</div>
 
+---
 
+### 🧬 Currently Working On
 
+- 🚀 Smart Farm Software (RealFarmpany 🌿)
+- 🧩 Sign Language AI for accessibility
+- 🤖 Raspberry Pi + Sensors + FastAPI Automation
 
+---
 
-<!--
-**0package/0package** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐾 GitAnimals
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=0package&utm_content=line">
+    <img src="https://render.gitanimals.org/lines/0package?pet-id=738589752768121552" width="600" height="120" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 Stats & Algorithm
+
+<div align="center">
+  <a href="https://solved.ac/hongsieey02/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hongsieey02" alt="Solved.ac 프로필" />
+  </a>
+</div>
+
+---
+
+### 🌐 Contact
+
+- 📫 Mail: [your_email@example.com]
+- 🌍 Blog or Portfolio: [Link if available]
+- 🤝 Let's connect: [LinkedIn/GitHub Discussion/etc]
+
+---
+
+<details>
+  <summary>📁 My GitHub Highlights</summary>
+
+  - 🌱 I love contributing to open source
+  - 💬 Always curious about system design patterns
+  - ✨ Building projects that matter
+
+</details>
