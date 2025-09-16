@@ -1,6 +1,8 @@
 <!-- Profile README for @0package -->
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Hong%20Shin%20Yeong&fontSize=90)
+  <picture>
+    ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=Hong%20Shin%20Yeong&fontSize=90)
+  </picture>
 </div>
 
 <h1 align="center">Hi, I'm Yeong 👋</h1>
