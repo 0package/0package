@@ -27,7 +27,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,python,raspberrypi,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=c,python,raspberrypi,mysql,git" />
 </div>
 
 <!--
